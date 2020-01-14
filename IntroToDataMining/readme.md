@@ -4,7 +4,5 @@
 
 ## Folders
 
-* Slides
-* Code
-* HomeWork
+* Classes
 * Projects
